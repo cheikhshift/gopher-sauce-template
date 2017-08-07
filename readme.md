@@ -8,6 +8,12 @@ Build a website with templates using Go and Gopher Sauce.
  - Save time
 	 - Update once, reused templates.
 
+
+### Requires
+
+ - Go Lang
+ - [Gopher Sauce](https://github.com/cheikhshift/Gopher-Sauce/blob/master/readme.md)
+
 ## Getting started
 (unix commands)
 					
