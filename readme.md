@@ -12,7 +12,7 @@ Build a website with templates using Go and Gopher Sauce.
 ### Requires
 
  - Go Lang
- - [Gopher Sauce](https://github.com/cheikhshift/Gopher-Sauce/blob/master/readme.md)
+ - [Gopher Sauce](https://gophersauce.com)
 
 ## Getting started
 (unix commands)
